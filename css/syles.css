@@ -762,7 +762,10 @@ fieldset {
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   color: var(--white);
   text-align: center;
+  font-family: Roboto, sans-serif;
   font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
   outline: transparent;
